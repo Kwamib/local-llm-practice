@@ -1,0 +1,5 @@
+model,input per million,output per million,checked
+Claude Haiku 5.5,0.10,0.50,2026-10-28
+Claude Sonnet 5.5,2,10,2026-10-28
+Claude Opus 5.5,4,20,2026-10-28
+Claude Fable 5.1,10,50,2026-10-28
