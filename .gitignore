@@ -1,3 +1,7 @@
 .venv/
 __pycache__/
 index.json
+job.lock/
+logs/
+proposals/
+job.json
